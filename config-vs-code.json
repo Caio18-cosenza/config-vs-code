@@ -1,0 +1,49 @@
+{
+  "editor.suggestSelection": "first",
+  "editor.fontSize": 22,
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.automationShell.windows": "C:/Program Files/Git/git-bash.exe",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": null,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+  "terminal.integrated.automationShell.linux": "C:\\Program Files\\Git\\git-bash.exe",
+  "terminal.integrated.automationShell.osx": "C:\\Program Files\\Git\\git-bash.exe",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.colorTheme": "Aura Dark",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "explorer.compactFolders": false,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "extensions.ignoreRecommendations": true,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
+  "php.validate.executablePath": "C:/xampp/php/php.exe",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "html.format.templating": true,
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+  },
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 2,
+  "terminal.integrated.tabs.title": "${process}${separator}${workspaceFolder}",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "tabnine.experimentalAutoImports": true,
+  "workbench.productIconTheme": "fluent-icons"
+}
