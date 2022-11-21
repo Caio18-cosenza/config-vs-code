@@ -34,6 +34,10 @@
     },
     "editor.suggest.insertMode": "replace"
   },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnSave": true
+  },
   "html.format.templating": true,
   "[dart]": {
     "editor.defaultFormatter": "Dart-Code.dart-code",
@@ -45,5 +49,6 @@
   "liveServer.settings.donotVerifyTags": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "tabnine.experimentalAutoImports": true,
-  "workbench.productIconTheme": "fluent-icons"
+  "workbench.productIconTheme": "fluent-icons",
+  "git.enableSmartCommit": true
 }
